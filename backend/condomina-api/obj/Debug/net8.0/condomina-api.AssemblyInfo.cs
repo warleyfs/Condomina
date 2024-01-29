@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("condomina-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4145951a49f0dfda6c47dc566b690a72027abf66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f10fdba563ace34d844535dcbfacda226e08fe7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("condomina-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("condomina-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

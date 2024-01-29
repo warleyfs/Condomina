@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0+nLcAlLrkeKJchY/4ez2NqP1jo/1zEtezsrbH5s+WUI69i/9ewvbxuzdWSeb3uNCh2sCBsymGyBqQg0tl4OZg==",
+  "dgSpecHash": "Ire3so/IqJj30KuhzPdzUUdq9+FQt7/cBnykMNp8NF35A1RhzxyNZWB/soOyAxA9RlwqJ9BTGn6HH8UJxByt1A==",
   "success": true,
-  "projectFilePath": "/Users/warley/Git/Moblie/Condomina/backend/condomina-api/condomina-api.csproj",
+  "projectFilePath": "/Users/warley/Git/Moblie/Condomina/backend/condomina-api/api.csproj",
   "expectedPackageFiles": [
     "/Users/warley/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/warley/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

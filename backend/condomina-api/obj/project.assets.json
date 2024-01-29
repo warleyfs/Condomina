@@ -442,9 +442,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/warley/Git/Moblie/Condomina/backend/condomina-api/condomina-api.csproj",
-      "projectName": "condomina-api",
-      "projectPath": "/Users/warley/Git/Moblie/Condomina/backend/condomina-api/condomina-api.csproj",
+      "projectUniqueName": "/Users/warley/Git/Moblie/Condomina/backend/condomina-api/api.csproj",
+      "projectName": "api",
+      "projectPath": "/Users/warley/Git/Moblie/Condomina/backend/condomina-api/api.csproj",
       "packagesPath": "/Users/warley/.nuget/packages/",
       "outputPath": "/Users/warley/Git/Moblie/Condomina/backend/condomina-api/obj/",
       "projectStyle": "PackageReference",
