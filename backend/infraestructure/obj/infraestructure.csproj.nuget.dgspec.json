@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/Users/warley/Git/Moblie/Condomina/backend/infraestructure/infraestructure.csproj": {}
+    "/home/warley/repos/moblie/Condomina/backend/infraestructure/infraestructure.csproj": {}
   },
   "projects": {
-    "/Users/warley/Git/Moblie/Condomina/backend/infraestructure/infraestructure.csproj": {
+    "/home/warley/repos/moblie/Condomina/backend/infraestructure/infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/warley/Git/Moblie/Condomina/backend/infraestructure/infraestructure.csproj",
+        "projectUniqueName": "/home/warley/repos/moblie/Condomina/backend/infraestructure/infraestructure.csproj",
         "projectName": "infraestructure",
-        "projectPath": "/Users/warley/Git/Moblie/Condomina/backend/infraestructure/infraestructure.csproj",
-        "packagesPath": "/Users/warley/.nuget/packages/",
-        "outputPath": "/Users/warley/Git/Moblie/Condomina/backend/infraestructure/obj/",
+        "projectPath": "/home/warley/repos/moblie/Condomina/backend/infraestructure/infraestructure.csproj",
+        "packagesPath": "/home/warley/.nuget/packages/",
+        "outputPath": "/home/warley/repos/moblie/Condomina/backend/infraestructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/warley/.nuget/NuGet/NuGet.Config"
+          "/home/warley/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

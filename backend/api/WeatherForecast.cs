@@ -1,4 +1,4 @@
-﻿namespace condomina_api;
+﻿namespace api;
 
 public class WeatherForecast
 {
