@@ -8,24 +8,25 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/warley/.nuget/packages/": {}
+    "/Users/warley/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/warley/repos/moblie/Condomina/backend/infraestructure/infraestructure.csproj",
+      "projectUniqueName": "/Users/warley/Git/Moblie/Condomina/backend/infraestructure/infraestructure.csproj",
       "projectName": "infraestructure",
-      "projectPath": "/home/warley/repos/moblie/Condomina/backend/infraestructure/infraestructure.csproj",
-      "packagesPath": "/home/warley/.nuget/packages/",
-      "outputPath": "/home/warley/repos/moblie/Condomina/backend/infraestructure/obj/",
+      "projectPath": "/Users/warley/Git/Moblie/Condomina/backend/infraestructure/infraestructure.csproj",
+      "packagesPath": "/Users/warley/.nuget/packages/",
+      "outputPath": "/Users/warley/Git/Moblie/Condomina/backend/infraestructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/warley/.nuget/NuGet/NuGet.Config"
+        "/Users/warley/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

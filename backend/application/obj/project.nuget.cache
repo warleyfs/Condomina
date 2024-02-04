@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NdEhQY7CeiqP6dEzRm3DSiKG/MgMu5L7M2G/GFXmwLpijgdWpFfcj4QC/2tdfDqeUoZM2Vd0q3hw4iDyfTYRYw==",
+  "dgSpecHash": "sDCPlsSMxHQWG0UZNl/nO3WmmI+beq8/C69wKFJIwp7/89XqwpRBhIYojN861ilwkRwH3wXM79amAoWWAtFpGw==",
   "success": true,
-  "projectFilePath": "/home/warley/repos/moblie/Condomina/backend/application/application.csproj",
+  "projectFilePath": "/Users/warley/Git/Moblie/Condomina/backend/application/application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

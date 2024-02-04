@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/home/warley/repos/moblie/Condomina/backend/domain/domain.csproj": {}
+    "/Users/warley/Git/Moblie/Condomina/backend/domain/domain.csproj": {}
   },
   "projects": {
-    "/home/warley/repos/moblie/Condomina/backend/domain/domain.csproj": {
+    "/Users/warley/Git/Moblie/Condomina/backend/domain/domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/warley/repos/moblie/Condomina/backend/domain/domain.csproj",
+        "projectUniqueName": "/Users/warley/Git/Moblie/Condomina/backend/domain/domain.csproj",
         "projectName": "domain",
-        "projectPath": "/home/warley/repos/moblie/Condomina/backend/domain/domain.csproj",
-        "packagesPath": "/home/warley/.nuget/packages/",
-        "outputPath": "/home/warley/repos/moblie/Condomina/backend/domain/obj/",
+        "projectPath": "/Users/warley/Git/Moblie/Condomina/backend/domain/domain.csproj",
+        "packagesPath": "/Users/warley/.nuget/packages/",
+        "outputPath": "/Users/warley/Git/Moblie/Condomina/backend/domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/warley/.nuget/NuGet/NuGet.Config"
+          "/Users/warley/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
