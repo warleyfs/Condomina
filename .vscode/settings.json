@@ -1,3 +1,3 @@
 {
-    "dotnet.defaultSolution": "backend/condomina-api/condomina-api.sln"
+    "dotnet.defaultSolution": "backend/condomina.sln"
 }
